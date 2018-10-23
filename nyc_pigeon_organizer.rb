@@ -1,5 +1,4 @@
 def nyc_pigeon_organizer(data)
-def nyc_pigeon_organizer(data)
   pigeon_names = []
   pigeon_list = {"" => { :a => []}}
     # "Theo" => {},
